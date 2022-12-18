@@ -1,0 +1,77 @@
+.footer {
+    padding: 0;
+    margin: 0;
+    /* max-width: 1170px; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: "Gluten", sans-serif; */
+    background-color: white;
+}
+
+.footer-start {
+    display: flex;
+    border-bottom: 1px solid rgb(223, 223, 223);
+
+}
+
+h5 {
+    text-transform: uppercase;
+    margin: 10px 0px;
+    font-weight: 600;
+}
+
+.wrapper-footer {
+    margin :0px auto;
+    display: flex;
+}
+
+.footer-content {
+    margin: 0px 50px;
+    margin-bottom: 10px;
+}
+
+.footer-content div {
+    font-size: small;
+    margin: 10px 0px;
+}
+
+.footer-content div a:hover {
+    color : red;
+}
+
+.footer-end {
+    display: flex;
+}
+
+.footer-wrapper {
+    display: flex;
+    margin: 30px auto;
+}
+
+
+
+.pay-img {
+    display: flex;
+}
+
+.footer-logo {
+    display: flex;
+    margin: 0px 150px;
+}
+
+.footer-logo div img.img1 {
+    width: 100px;
+}
+
+.footer-message {
+    /* margin-left: 100px; */
+    width: 350px;
+}
+
+.pay h5 ,  .footer-message h5{
+    color : red ;
+    font-size: x-large;
+}
+
+.singin input {
+    width: 200px;
+}
